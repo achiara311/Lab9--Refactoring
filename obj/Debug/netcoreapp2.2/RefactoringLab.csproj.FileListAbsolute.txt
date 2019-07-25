@@ -1,0 +1,11 @@
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\RefactoringLab\bin\Debug\netcoreapp2.2\RefactoringLab.deps.json
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\RefactoringLab\bin\Debug\netcoreapp2.2\RefactoringLab.runtimeconfig.json
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\RefactoringLab\bin\Debug\netcoreapp2.2\RefactoringLab.runtimeconfig.dev.json
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\RefactoringLab\bin\Debug\netcoreapp2.2\RefactoringLab.dll
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\RefactoringLab\bin\Debug\netcoreapp2.2\RefactoringLab.pdb
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\RefactoringLab\obj\Debug\netcoreapp2.2\RefactoringLab.csproj.CoreCompileInputs.cache
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\RefactoringLab\obj\Debug\netcoreapp2.2\RefactoringLab.AssemblyInfoInputs.cache
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\RefactoringLab\obj\Debug\netcoreapp2.2\RefactoringLab.AssemblyInfo.cs
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\RefactoringLab\obj\Debug\netcoreapp2.2\RefactoringLab.dll
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\RefactoringLab\obj\Debug\netcoreapp2.2\RefactoringLab.pdb
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\RefactoringLab\obj\Debug\netcoreapp2.2\RefactoringLab.csprojAssemblyReference.cache
